@@ -19,7 +19,7 @@ Example:
      
      
 *************
-_ _ _ _ _ _
+_ _ _ _ _
 
 Enter a letter: e
 *************
@@ -27,7 +27,7 @@ Enter a letter: e
   |  
      
 *************
-e _ _ _ _ _
+e _ _ _ _
 
 Enter a letter: g
 *************
@@ -35,8 +35,29 @@ Enter a letter: g
   |  
      
 *************
-e g _ _ _ _
+e g _ _ _
 
-...
+Enter a letter: y
+*************
+  O  
+ /|  
+     
+*************
+e g y _ _
 
+Enter a letter: p
+*************
+  O  
+ /|\ 
+     
+*************
+e g y p _
+
+Enter a letter: t
+*************
+  O  
+ /|\ 
+     
+*************
+e g y p t
 YOU WIN!
