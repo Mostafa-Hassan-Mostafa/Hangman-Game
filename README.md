@@ -15,49 +15,85 @@
 Example:
 
 *************
-     
+_ _ _ _
+Enter a letter: o
+*************
+  O  
      
      
 *************
-_ _ _ _ _
-
-Enter a letter: e
-*************
-     
-  |  
-     
-*************
-e _ _ _ _
-
-Enter a letter: g
+_ _ _ _
+Enter a letter: m
 *************
   O  
   |  
      
 *************
-e g _ _ _
-
-Enter a letter: y
+_ _ _ _
+Enter a letter: i
+*************
+  O  
+  |  
+     
+*************
+i _ _ _
+Enter a letter: w
 *************
   O  
  /|  
      
 *************
-e g y _ _
-
+i _ _ _
+Enter a letter: r
+*************
+  O  
+ /|  
+     
+*************
+i r _ _
+Enter a letter: o
+o is already guessed
+*************
+  O  
+ /|  
+     
+*************
+i r _ _
 Enter a letter: p
 *************
   O  
- /|\ 
+ /|\
      
 *************
-e g y p _
-
-Enter a letter: t
+i r _ _
+Enter a letter: a
 *************
   O  
- /|\ 
+ /|\
      
 *************
-e g y p t
+i r a _
+Enter a letter: m
+m is already guessed
+*************
+  O  
+ /|\
+     
+*************
+i r a _
+Enter a letter: v
+*************
+  O  
+ /|\
+ /   
+*************
+i r a _
+Enter a letter: q
+*************
+  O  
+ /|\
+ /   
+*************
+i r a q
+
 YOU WIN!
