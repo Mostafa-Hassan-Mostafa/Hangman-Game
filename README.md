@@ -105,21 +105,12 @@ m is already guessed
 *************
   O  
  /|\
-     
-*************
-i r a _
-Enter a letter: v
-*************
-  O  
- /|  \
- /   
 *************
 i r a _
 Enter a letter: q
 *************
   O  
- /|  \
- /    
+ /|\
 *************
 i r a q
 
